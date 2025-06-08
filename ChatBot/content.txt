@@ -4,98 +4,274 @@ Welcome to the Amrita Vishwa Vidyapeetham Bengaluru Campus Admission Help Desk! 
 
 About Bengaluru Campus
 
-Amrita Vishwa Vidyapeetham's Bengaluru Campus is part of the multi-campus, multi-disciplinary, research-intensive private university that consistently ranks among the top institutions in India. The campus is renowned for its emphasis on academic excellence, industry collaboration, cutting-edge research, and a strong focus on core human values.
+Amrita Vishwa Vidyapeetham’s Bengaluru Campus, also known as Amrita School of Engineering, Bengaluru (ASE-B), is part of the multi-campus, multi-disciplinary, research-intensive Amrita Vishwa Vidyapeetham University. The university has been accredited with the highest possible grade of A++ by NAAC and consistently ranks among the top institutions in India.
 
-Our Bengaluru campus specializes in engineering and technology-driven disciplines and hosts the Amrita School of Engineering, which is well-known for its innovation-driven programs and vibrant academic environment.
+Situated in the technological heart of India, Bengaluru, the campus offers a vibrant academic environment that promotes learning, innovation, and research. With a strong focus on science and technology education, ASE-B nurtures the next generation of engineers and researchers equipped with core human values and social responsibility.
+
+ASE-B is well known for its research-oriented approach, fostering cutting-edge research in areas like Artificial Intelligence, Data Science, Cybersecurity, VLSI Design, Robotics, and Embedded Systems. It combines the best of academic rigor and real-world relevance to prepare students for future challenges.
 
 Academic Programs
 
 Undergraduate Programs (B.Tech)
 
-B.Tech. in Mechanical Engineering
-B.Tech. in Electronics and Communication Engineering
-B.Tech. in Electrical and Electronics Engineering
-B.Tech. in Electronics and Computer Engineering
-B.Tech. in Electrical and Computer Engineering
+B.Tech. in Mechanical Engineering (MEE)
+
+B.Tech. in Computer Science and Engineering (CSE)
+
+B.Tech. in Electronics and Communication Engineering (ECE)
+
+B.Tech. in Electrical and Electronics Engineering (EEE)
+
+B.Tech. in Electronics and Computer Engineering (EAC)
+
+B.Tech. in Electrical and Computer Engineering (ELC)
+
 B.Tech. in Robotics & Artificial Intelligence (RAI)
+
+Specializations Available:
+
+Artificial Intelligence and Data Science (AIDS)
+
+Cybersecurity
+
+Computer Science and Engineering (Artificial Intelligence)
+
+Electronics and Computer Engineering
+
+Electrical and Computer Engineering
+
+Robotics and Automation
 
 Postgraduate Programs (M.Tech)
 
 M.Tech. in Computer Science & Engineering
+
 M.Tech. in Data Science
+
 M.Tech. in Embedded Systems
+
 M.Tech. in VLSI Design
+
 M.Tech. in Electrical Engineering
+
 M.Tech. in Robotics and Automation
 
 Doctoral Programs (Ph.D.)
 
 Ph.D. in Physics
+
 Ph.D. in Chemistry
+
 Ph.D. in Mathematics
+
 Ph.D. in Electronics and Communication Engineering
 
-Key Research Centers
+Other Degree Programs
 
-Bengaluru Campus houses several advanced research centers:
+The campus also offers integrated and online degree programs:
 
-Advanced Communications and Networks Research Lab
-HuT Labs (Humanitarian Technology Labs) – notable for innovations like नेत्रावाद (Netravaad), an AI-based assistive device showcased at national conferences.
+Bachelor of Computer Application (BCA)
 
-These centers focus on cutting-edge areas like Artificial Intelligence, Data Science, Cybersecurity, Robotics, and VLSI Design.
+Bachelor of Business Administration (BBA)
+
+Bachelor of Commerce (B.Com)
+
+Master of Business Administration (MBA)
+
+Master of Computer Application (MCA with AI and Cybersecurity Specializations)
+
+Integrated BCA-MCA Programs
+
+Research and Innovation
+
+The Bengaluru campus is home to various research labs and centers of excellence:
+
+Advanced Communications and Networks Research Lab: Focuses on cutting-edge areas of wireless communication, network security, and IoT.
+
+HuT Labs (Humanitarian Technology Labs): Known for developing innovations like कोनेक्शन् नेत्रावाद (Netravaad), a voice-based assistive communication device for differently-abled individuals.
+
+Data Science and AI Lab: Focus on applied research in machine learning, deep learning, and data-driven decision-making.
+
+Cybersecurity Center: Focuses on developing solutions for cyber threats and cybersecurity education.
+
+VLSI and Embedded Systems Lab: Research in chip design, embedded hardware, and automation systems.
+
+Amrita Bengaluru's research philosophy is closely tied to humanitarian values, ensuring that technology developed here has societal impact.
 
 Admission Information
 
 Entrance Exams
 
-AEEE (Amrita Entrance Examination - Engineering) is the primary admission pathway for B.Tech. programs.
-Students can also apply based on JEE Mains 2025 percentile.
+Admissions to B.Tech programs are based on:
+
+AEEE (Amrita Entrance Examination - Engineering)
+
+JEE Mains 2025 Score: Students can opt to be considered via JEE percentile.
+
+M.Tech admissions are based on:
+
+GATE scores
+
+Performance in qualifying degrees.
+
+Ph.D. admissions are based on:
+
+Entrance Test and Interview
+
+Valid GATE/NET qualification (preferred).
 
 Application Process
 
-Visit the official Amrita Admissions Portal (https://www.amrita.edu/admissions/).
-Fill out the online application form.
-Choose Bengaluru Campus and preferred program.
-Upload necessary documents and pay the application fee.
-Appear for the required entrance examinations (AEEE or JEE Main).
+Visit Amrita Admissions Portal.
 
-Important Note
+Fill the online application form.
 
-Amrita Vishwa Vidyapeetham has not appointed any agents or third-party consultants for securing admission. Students are advised to contact only official admission channels.
+Choose "Bengaluru Campus" and the desired program.
+
+Upload the required documents.
+
+Pay the application fee.
+
+Appear for the entrance examination (AEEE/JEE Main).
 
 Important Dates
 
-AEEE 2025 Registration started in November 2024.
-Early applications are highly recommended due to limited seat availability.
+AEEE 2025 Registration: Open from November 2024.
+
+Early application is advised as admissions are granted based on seat availability and merit ranking.
+
+Fees and Scholarships
+
+While specific fees can vary year-to-year, typically:
+
+B.Tech Fee: ₹3,00,000 to ₹3,50,000 per year depending on branch.
+
+M.Tech Fee: Around ₹1,80,000 to ₹2,50,000 per year.
+
+Scholarships:
+
+Fees and Scholarships
+
+For B.Tech programs, the tuition fee structure varies based on the scholarship slab:
+
+Students admitted under Slab 1 (Scholarship Fee) for Computer Science Engineering (CSE), Artificial Intelligence Engineering (AIE), and Artificial Intelligence and Data Science (AID) will pay INR 1,50,000 per annum. Those opting for Electronics and Communication Engineering (ECE), Electronics and Computer Engineering (EAC), Electrical and Computer Engineering (ELC), and Robotics & Artificial Intelligence (RAI) will pay INR 1,25,000 annually. Mechanical Engineering (MEE) and Electrical and Electronics Engineering (EEE) students under Slab 1 will pay INR 1,00,000 per year.
+
+In Slab 2 (Scholarship Fee), the annual tuition fee will be INR 2,75,000 for CSE, AIE, and AID; INR 2,00,000 for ECE, EAC, ELC, and RAI; and INR 2,00,000 for MEE and EEE.
+
+Under Slab 3 (Scholarship Fee), the fees rise to INR 4,00,000 for CSE, AIE, and AID; INR 3,00,000 for ECE, EAC, ELC, and RAI; and remain at INR 2,00,000 for MEE and EEE.
+
+For students without a scholarship (Regular Fee - Slab 4), the fees are INR 6,00,000 for CSE, AIE, and AID; INR 4,00,000 for ECE, EAC, ELC, and RAI; and INR 3,00,000 for MEE and EEE.
+
+Hostel fees for B.Tech students for the year 2025-2026 are as follows: Newly registering students will have to pay INR 60,000 annually as rent charges, INR 61,000 as mess expenses, and a one-time caution deposit of INR 10,000. Thus, the total for first-year students amounts to INR 1,31,000. For students from the 2024, 2023, and 2022 batches (second, third, and fourth-year students), the total payable is INR 1,21,000 annually, as they are exempt from paying the caution deposit again.
+
+Transportation fees for the year 2025-2026 are INR 45,000 annually for all regular routes. For students traveling up to Kaikondanahalli and Hosa Road (including those residing in Electronic City, Chandapura, and Hosur), the transportation fee is INR 22,500 per year.
+
+Scholarships are offered based on merit in entrance exams and academic performance. Merit-Based Scholarships are available for high-rank holders in AEEE or JEE Mains, Need-Based Scholarships for financially deserving students, Special Scholarships for top performers and students from rural backgrounds, and Fee waivers up to 90% based on merit.
+
+For the latest fee structure and scholarship details, students are advised to check the Amrita Admission Website.
 
 Campus Highlights
 
-Location: Strategically located in Bengaluru, India's technology hub.
-Placements: Strong placement support with collaborations with top MNCs.
-Facilities: Modern classrooms, labs, hostels, sports facilities, and green campus.
-Student Activities: Annual fests, hackathons, research conferences, and clubs encourage holistic development.
-Research and Innovation: Emphasis on real-world projects with industry tie-ups.
-Awards:
+Location
 
-State Government's Paristhithimithram Award for environmental contributions.
-National-level recognitions for gender equality initiatives and research excellence.
+Bengaluru, known as India’s Silicon Valley, offers ample exposure to students in terms of internships, projects, and job placements. The campus is easily accessible from all parts of the city.
+
+Infrastructure
+
+Smart Classrooms: Equipped with modern teaching aids.
+
+State-of-the-art Laboratories: Well-equipped for all engineering departments.
+
+Library: Extensive collection of textbooks, journals, research papers.
+
+Wi-Fi Enabled Campus: High-speed internet available throughout the campus.
+
+Hostels: Separate, well-maintained hostels for boys and girls with modern amenities.
+
+Sports Facilities: Includes basketball, volleyball, cricket ground, indoor games.
+
+Canteen and Cafeteria: Providing hygienic and nutritious food.
+
+Health Services: On-campus medical facilities and tie-ups with major hospitals.
+
+Placements
+
+Amrita School of Engineering, Bengaluru has a strong placement record. Companies regularly visiting the campus include:
+
+Microsoft
+
+Amazon
+
+Cisco
+
+Infosys
+
+TCS
+
+Cognizant
+
+Guidewire Software
+
+The average salary package varies between ₹5-8 LPA, with top packages reaching ₹20-30 LPA.
+
+Student Activities
+
+Students at ASE-B are actively involved in various clubs and activities:
+
+Technical Clubs: Robotics Club, AI Club, Coding Clubs.
+
+Cultural Clubs: Music, Dance, Drama, Fine Arts.
+
+Entrepreneurship Cell: Supports student startups and business ideas.
+
+National Service Scheme (NSS): Social outreach programs.
+
+Hackathons and Technical Fests: Regularly organized to hone skills.
+
+Vidyut: National-level inter-college multi-fest.
+
+Accolades and Achievements
+
+Paristhithimithram Award: Kerala State Government’s award for environmental contributions.
+
+Gender Equality Initiatives: Honored at Cannes Film Festival for contributions to gender equality.
+
+National Awards: Students have won awards in national-level hackathons and research competitions.
 
 Why Choose Amrita Bengaluru?
 
-Academic Excellence: Top-ranked university in India, combining rigorous academics with research.
-Industry Partnerships: Tie-ups with companies like Guidewire Software, supporting cutting-edge tech labs.
-Holistic Development: Emphasis on human values, social responsibility, and leadership.
-Strong Alumni Network: Graduates work in leading global corporations.
+Ranked Among India’s Top Private Universities
 
-Student Testimonial:
-"Thanks to my mentors at Amrita, I transformed into a prospective leader who communicates powerfully with fewer words. The hard skills I learned here are the most sought after at my workplace now."
-— Aiswarya Ajith, HR Analyst, Walmart India
+High Research Output
+
+World-Class Faculty
+
+Industry Collaborations: Guidewire Software Technology Lab launched.
+
+Holistic Education: Academic learning combined with values and ethics.
+
+Strong Alumni Network: Alumni in top multinational corporations worldwide.
+
+Industry Tie-ups and Collaborations
+
+Guidewire Technology Labs: Center for insurance software solutions.
+
+Hackathons and Innovation Challenges: Partnerships with tech giants.
+
+Research Collaborations: National and international research projects.
+
+Alumni Success
+
+Amrita Bengaluru alumni have a strong presence in top firms globally. Some pursue higher education in premier institutions like Stanford, MIT, and IITs, while others work with leading companies in India and abroad.
 
 Contact Details
-
-For queries and admission assistance:
-
 Directorate of Admissions & Academic Outreach
-Website: amrita.edu (https://www.amrita.edu)
-Admissions Portal: Amrita Admissions (https://www.amrita.edu/admissions/)
-Campus-Specific Page: Bengaluru Campus (https://www.amrita.edu/campus/bengaluru/)
+Website: amrita.edu
+Admissions Portal: https://www.amrita.edu/admissions/
+Bengaluru Campus Info: 
+https://www.amrita.edu/campus/bengaluru/
+Phone: 080 25183700 | 6366576503
+Fax:  080 2844 0092
+Admissions:  admissions@blr.amrita.edu
+Information: info@blr.amrita.edu
+Career: career@blr.amrita.edu
